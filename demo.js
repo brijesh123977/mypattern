@@ -1,15 +1,3 @@
-// let rows = 5;
-// let pattern = "";
-// for (let n = 1; n <= rows; n++) {
-//    for (let num = 1; num <= n; num++) {
-//       if (num === 1 || num === n || n === rows) pattern += "*";
-//       else {
-//          pattern += " ";
-//       }
-//    }
-//    pattern += "\n";
-// }
-// console.log(pattern);
 
 //---------------------------------------------------------------------------------------
 // function printHollowDiamondStarPattern(n) {
