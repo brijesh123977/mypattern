@@ -1,38 +1,3 @@
-// let n = 5;
-// for (let i = 0; i < n; i++) {
-//   let row = "";
-//   let num = 1;
-//   for (let j = 0; j <= i; j++) {
-//     row += num + " ";
-//     num = (num * (i - j)) / (j + 1); 
-//   }
-//   console.log(row.trim());
-// }
-
-//------------------------------------------------------------------
-
-// let n = 4; 
-// for (let i = 1; i <= n; i++) {
-//   let row = " ".repeat(n - i); 
-//   for (let j = i; j >= 1; j--) {
-//     row += j;
-//   }
-//   for (let j = 2; j <= i; j++) {
-//     row += j;
-//   }
-//   console.log(row);
-// }
-// for (let i = n - 1; i >= 1; i--) {
-//   let row = " ".repeat(n - i);
-//   for (let j = i; j >= 1; j--) {
-//     row += j;
-//   }
-//   for (let j = 2; j <= i; j++) {
-//     row += j;
-//   } 
-//   console.log(row);
-// }
-//------------------------------------------------------------------------------------------
 // let n = 4;
 // console.log("*".repeat(n));
 // for (let i = 1; i <= n - 2; i++) {
